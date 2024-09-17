@@ -5,7 +5,7 @@
 This repository contains the source code for a course website built using Tailwind CSS. The website is designed to provide a clean, modern,
 and responsive user interface for students to explore course materials, resources, and announcements.
 
-## Demo Link : [Click Here!!!]
+## Demo Link : [Click Here!!!](https://landingtailwindcss.netlify.app/)
 
 ## Features
 
